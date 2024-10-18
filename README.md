@@ -18,7 +18,7 @@ This project is a React-based application that displays a list of Star Wars char
 
 ### Prerequisites
 
-- Node.js (v14 or higher)
+- Node.js
 - npm 
 
 ### Installation
@@ -29,7 +29,7 @@ This project is a React-based application that displays a list of Star Wars char
 
 2. Navigate to the project directory:
    ```bash
-   cd star-wars
+   cd starwar
 
 3. Install the dependencies:
     ```bash
@@ -38,10 +38,3 @@ This project is a React-based application that displays a list of Star Wars char
 ## Running the Application
    ```bash
    npm start
-
-
-    
-
-
-
-
