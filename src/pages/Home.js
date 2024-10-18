@@ -3,7 +3,7 @@ import { useSearchParams, useNavigate } from "react-router-dom";
 import Loader from "../components/Loader";
 import CharacterName from "../components/CharacterName";
 import CharacterInfo from "../components/CharacterInfo";
-import Pagination from "../components/Pagination"; // Import the new Pagination component
+import Pagination from "../components/Pagination"; 
 
 const Home = () => {
   const [characters, setCharacters] = useState([]);
